@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;estudante+de+IoT+•+criadora+de+bots+•+gamer;um+monte+de+ideias,+alguns+projetos+finalizados+e+v%C3%A1rios+em+andamento"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;estudante+de+IoT+•+criadora+de+bots;um+monte+de+ideias,+alguns+projetos+finalizados+e+v%C3%A1rios+em+andamento"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=asonozz&style=for-the-badge&color=ff8fc7"/>
+<img src="https://komarev.com/ghpvc/?username=asonozz&style=for-the-badge&color=CDB4DB"/>
 
 </div>
 
@@ -12,15 +12,15 @@
 
 <div align="center">
 
-### 🌙 Este é apenas um pequeno quarto na internet.
+### 🌙 This is just a small room somewhere on the internet.
 
-*Entre um commit e outro, tento transformar curiosidade em algo que possa existir.*
+*Este lugar é feito de curiosidade, algumas madrugadas e projetos que ainda estão tentando descobrir o que querem ser.*
 
 </div>
 
 ---
 
-## 🌸 Sobre mim
+## 🌸 About Me
 
 Meu nome é Nathalia, mas na internet você provavelmente vai me encontrar como **asonozz**.
 
@@ -32,7 +32,7 @@ Não é um portfólio perfeito.
 
 ---
 
-## 📦 O que você vai encontrar por aqui
+## 📦 What's Here
 
 - 🤖 Bots para Discord
 - 📡 Projetos de IoT
@@ -42,7 +42,7 @@ Não é um portfólio perfeito.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -52,42 +52,62 @@ Não é um portfólio perfeito.
 
 ---
 
-## 🌙 Algumas coisas que eu gosto
+## 🌙 Things I Like
 
 - 🎮 Valorant
 - 🎬 The Last of Us
-- 🎧 Kyan
-- 🌊 Frank Ocean
-- 🎸 Deftones
-- 🎙️ Racionais MC's
 - 📡 Tecnologia e automação
 - 🌃 Projetos feitos tarde da noite
 
 ---
 
-## 📈 Estatísticas
+## 🎵 Background Music
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&theme=transparent&title_color=F7A8D7&text_color=ffffff&icon_color=ff8fc7&border_color=F7A8D7"/>
+Kyan
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&theme=transparent&title_color=F7A8D7&text_color=ffffff&border_color=F7A8D7"/>
+Frank Ocean
+
+Deftones
+
+Racionais MC's
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Algumas músicas viram trilha sonora de fases inteiras da vida."*
 
 </div>
 
 ---
 
-## 🌷 Minha jornada
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=tokyo-night&bg_color=00000000&color=F7A8D7&line=FF69B4&point=FFFFFF&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&theme=transparent&title_color=CDB4DB&text_color=ffffff&icon_color=CDB4DB&border_color=CDB4DB"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&theme=transparent&title_color=CDB4DB&text_color=ffffff&border_color=CDB4DB"/>
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🌷 My Journey
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=tokyo-night&bg_color=00000000&color=CDB4DB&line=B89BD9&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
@@ -97,7 +117,7 @@ Não é um portfólio perfeito.
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <div align="center">
 
@@ -107,7 +127,7 @@ Não é um portfólio perfeito.
 
 ---
 
-## 💌 Me encontre por aí
+## 💌 Find Me
 
 <div align="center">
 
@@ -120,7 +140,7 @@ Não é um portfólio perfeito.
 </a>
 
 <a href="https://guns.lol/asonozz">
-<img src="https://img.shields.io/badge/Guns.lol-FF8FC7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Guns.lol-CDB4DB?style=for-the-badge"/>
 </a>
 
 </div>
@@ -129,10 +149,7 @@ Não é um portfólio perfeito.
 
 <div align="center">
 
-*"Alguns projetos terminam.*
-
-*Outros ficam pelo caminho.*
-
-*Mas todos contam um pouco da pessoa que os criou."*
+*"Nem todo projeto chega ao destino final.*  
+*Mas cada um deles deixa algo para trás."*
 
 </div>
