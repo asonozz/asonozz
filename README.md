@@ -102,7 +102,7 @@ Então, fique á vontade para descobrir meus devaneios!
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=tokyo-night&bg_color=00000000&color=CDB4DB&line=B89BD9&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=github-dark&bg_color=00000000&color=CDB4DB&line=CDB4DB&point=FFFFFF&hide_border=true"/>
 
 <br><br>
 
