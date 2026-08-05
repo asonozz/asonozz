@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;estudante+de+IoT+•+criadora+de+bots;um+monte+de+ideias,+alguns+projetos+finalizados+e+v%C3%A1rios+em+andamento"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;late+nights,+quiet+thoughts;building+things+that+don't+exist+yet"/>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ### 🌙 This is just a small room somewhere on the internet.
 
-*Este lugar é feito de curiosidade, algumas madrugadas e projetos que ainda estão tentando descobrir o que querem ser.*
+*This place is made of curiosity, a few sleepless nights and projects that are still figuring out what they want to be.*
 
 </div>
 
@@ -79,7 +79,7 @@ Racionais MC's
 
 <div align="center">
 
-*"Algumas músicas viram trilha sonora de fases inteiras da vida."*
+*"Some songs end up becoming the soundtrack of entire chapters of our lives."*
 
 </div>
 
@@ -149,7 +149,7 @@ Racionais MC's
 
 <div align="center">
 
-*"Nem todo projeto chega ao destino final.*  
-*Mas cada um deles deixa algo para trás."*
+*"Not every project reaches its final destination.*  
+*But every one of them leaves something behind."*
 
 </div>
