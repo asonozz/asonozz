@@ -14,7 +14,7 @@
 
 ### 🌙 This is just a small room somewhere on the internet.
 
-*This place is made of curiosity, a few sleepless nights and projects that are still figuring out what they want to be.*
+*Made of curiosity, late nights, background music and projects that are still figuring out what they want to become.*
 
 </div>
 
@@ -22,23 +22,16 @@
 
 ## 🌸 About Me
 
-Meu nome é Lia, mas na internet você provavelmente vai me encontrar como **asonozz**.
-
-Atualmente faço Técnico em **Internet das Coisas (IoT)** e gosto de criar coisas que me desafiem a aprender algo novo. Esse GitHub é onde guardo projetos, experimentos, trabalhos, ideias e tudo aquilo que surgiu de uma simples curiosidade.
-
-Não é um portfólio perfeito.
-
-É mais uma coleção de tentativas, aprendizados e projetos que encontrei pelo caminho.
-
+oin, eu sou a Lia, mas na internet, quase sempre você vai me encontrar como **asonozz**.
+meu perfil é um pequeno espaço onde guardo ideias, projetos, experimentos e algumas madrugadas mal dormidas.
+entre códigos, músicas de fundo e curiosidades aleatórias, vou criando coisas sem saber exatamente onde elas vão chegar.
+mas, de algum jeito, elas sempre acabam aparecendo por aqui.
 ---
 
 ## 📦 What's Here
 
-- 🤖 Bots para Discord
-- 📡 Projetos de IoT
-- 🎓 Trabalhos e atividades do SENAI
-- 💻 Pequenas automações
-- 🌱 Experimentos e ideias aleatórias
+A place to keep everything that started with a simple:
+> "what if I tried this?"
 
 ---
 
@@ -54,32 +47,26 @@ Não é um portfólio perfeito.
 
 ## 🌙 Things I Like
 
-- 🎮 Games
-- 🎬 Sleep
-- 📡 Music
-- 🌃 Projetos feitos tarde da noite
+late night gaming, good music, unfinished ideas and sleeping whenever possible.
 
 ---
+
 
 ## 🎵 Background Music
 
 <div align="center">
 
-Kyan
+♪ Frank Ocean
 
-Frank Ocean
+♪ Kyan
 
-Deftones
+♪ Deftones
 
-Racionais MC's
-
-</div>
+♪ Racionais MC's
 
 <br>
 
-<div align="center">
-
-*"Some songs end up becoming the soundtrack of entire chapters of our lives."*
+*"The soundtrack of late nights and unfinished projects."*
 
 </div>
 
@@ -97,29 +84,13 @@ Racionais MC's
 
 ---
 
-## 🌷 My Journey
+## 🌙 Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=tokyo-night&bg_color=00000000&color=CDB4DB&line=B89BD9&point=FFFFFF&hide_border=true"/>
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asonozz&theme=radical&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
+<br><br>
 
 <img src="https://github.com/asonozz/asonozz/blob/output/github-contribution-grid-snake-dark.svg"/>
 
