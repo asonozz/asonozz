@@ -79,6 +79,14 @@
 
 ---
 
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://github.com/asonozz/asonozz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
 <div align="center">
 
 ✨ Obrigada pela visita!
