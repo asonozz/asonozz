@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;late+nights,+quiet+thoughts;building+things+that+don't+exist+yet"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+@asonozz;late+nights,+quiet+thoughts;building+things+that+don't+exist+yet"/>
 
 <br>
 
@@ -22,9 +22,9 @@
 
 ## 🌸 About Me
 
-Meu nome é Nathalia, mas na internet você provavelmente vai me encontrar como **asonozz**.
+Meu nome é Lia, mas na internet você provavelmente vai me encontrar como **asonozz**.
 
-Atualmente estudo **Internet das Coisas (IoT)** e gosto de criar coisas que me desafiem a aprender algo novo. Este GitHub é onde guardo projetos, experimentos, trabalhos, ideias e tudo aquilo que surgiu de uma simples curiosidade.
+Atualmente faço Técnico em **Internet das Coisas (IoT)** e gosto de criar coisas que me desafiem a aprender algo novo. Esse GitHub é onde guardo projetos, experimentos, trabalhos, ideias e tudo aquilo que surgiu de uma simples curiosidade.
 
 Não é um portfólio perfeito.
 
@@ -54,9 +54,9 @@ Não é um portfólio perfeito.
 
 ## 🌙 Things I Like
 
-- 🎮 Valorant
-- 🎬 The Last of Us
-- 📡 Tecnologia e automação
+- 🎮 Games
+- 🎬 Sleep
+- 📡 Music
 - 🌃 Projetos feitos tarde da noite
 
 ---
