@@ -12,9 +12,12 @@
 
 <div align="center">
 
-### 🌙 This is just a small room somewhere on the internet.
+### ˙⋆✮ This is just a small room somewhere on the internet. 
 
 *Made of curiosity, late nights, background music and projects that are still figuring out what they want to become.*
+
+*"Not every project reaches its final destination.*  
+*But every one of them leaves something behind."*
 
 </div>
 
@@ -22,16 +25,23 @@
 
 ## 🌸 About Me
 
-### oin, eu sou a Lia, mas na internet, quase sempre você vai me encontrar como **asonozz**.
-meu perfil é um pequeno espaço onde guardo ideias, projetos, experimentos e algumas madrugadas mal dormidas.
-entre códigos, músicas de fundo e curiosidades aleatórias, vou criando coisas sem saber exatamente onde elas vão chegar.
-mas, de algum jeito, elas sempre acabam aparecendo por aqui.
+**asonozz. ᯓ★**
+
+building things. learning along the way.
+
+essa conta é dedicada à minha evolução criando, aos projetos que surgem pelo caminho e às ideias que ainda estão tomando forma.
+
+um lugar para guardar tentativas, aprendizados e coisas que eu quis construir.
+
 ---
 
 ## 📦 What's Here
 
-A place to keep everything that started with a simple:
-> "what if I tried this?"
+Um lugar para guardar tudo aquilo que começou com um simples:
+
+> "e se eu tentasse isso?"
+
+Então, fique á vontade para descobrir meus devaneios!
 
 ---
 
@@ -47,10 +57,13 @@ A place to keep everything that started with a simple:
 
 ## 🌙 Things I Like
 
-late night gaming, good music, unfinished ideas and sleeping whenever possible.
+- 🎮 games
+- 🎧 music
+- 💻 coding
+- 🌱 creating random things
+- 🌙 late nights and quiet moments
 
 ---
-
 
 ## 🎵 Background Music
 
@@ -66,7 +79,8 @@ late night gaming, good music, unfinished ideas and sleeping whenever possible.
 
 <br>
 
-*"The soundtrack of late nights and unfinished projects."*
+
+*"𝐒𝐖𝐀𝐆!"*
 
 </div>
 
@@ -100,19 +114,16 @@ late night gaming, good music, unfinished ideas and sleeping whenever possible.
 
 ## 💌 Find Me
 
-<div align="center">
-
-<a href="https://instagram.com/asonozz">instagram</a> ✦
-<a href="https://x.com/asonozz">x</a> ✦
-<a href="https://guns.lol/asonozz">guns.lol</a> ✦
-
-</div>
+- instagram — [@asonozz](https://instagram.com/asonozz) ⋆˚࿔
+- x — [@asonozz](https://x.com/asonozz) ⋆˚࿔
+- guns.lol — [asonozz](https://guns.lol/asonozz) ⋆˚࿔
 
 ---
 
 <div align="center">
 
-*"Not every project reaches its final destination.*  
-*But every one of them leaves something behind."*
+⋆⭒˚.⋆
+*"Look at the light."*
+⋆⭒˚.⋆
 
 </div>
