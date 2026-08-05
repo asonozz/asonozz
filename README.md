@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=700&lines=Hey!+I'm+asonozz+%F0%9F%8C%B8;Player+%E2%80%A2+Developer+%E2%80%A2+Dreamer;Welcome+to+my+little+coding+space+%F0%9F%92%97"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=850&lines=Hey!+I'm+asonozz+🌸;Welcome+to+my+digital+room+💗;IoT+Student+•+Bot+Builder+•+Gamer;Turning+ideas+into+projects+one+commit+at+a+time"/>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=asonozz&style=for-the-badge&color=ff8fc7"/>
 
@@ -10,59 +12,114 @@
 
 <div align="center">
 
-### 🌷 *"Sometimes I write code. Sometimes I play Valorant. Sometimes I spend 2 hours fixing a bug caused by one missing semicolon."*
+# 🌸 Welcome to my Digital Room
+
+*"A place where unfinished ideas, random experiments and late-night projects live together."*
 
 </div>
 
 <br>
 
-# 🌸 About me
+## 🪴 Room Status
 
 ```yaml
-name: Lia
+user: Nathalia
 
 nickname: asonozz
+
+location: Brazil 🇧🇷
 
 status: Online 🟢
 
 currently:
-  - 🎮 Grinding Valorant
-  - 💻 Learning new things
-  - 🤖 Building Discord bots
-  - 🌸 Making everything prettier
+  - 📡 Learning IoT
+  - 🤖 Building Discord Bots
+  - 🎮 Playing Valorant
+  - ☕ Surviving with coffee
+  - 🎵 Listening to music
 
-coffee: required
+favorite_games:
+  - The Last of Us
+  - Valorant
 
-favorite_color: pink 💗
-
-bug_counter: ∞
+current_mission:
+  Keep learning and creating cool stuff.
 ```
 
 ---
 
-# 🎀 Tech Stack
+## 🖥️ Around My Desk
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,discord&perline=5"/>
+| 💻 Screen | 🎵 Music    | ☕ Drink | 🧠 Brain   |
+| --------- | ----------- | ------- | ---------- |
+| VS Code   | Frank Ocean | Coffee  | Loading... |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,discord&perline=9"/>
 
 </div>
 
 ---
 
-# 💗 Current Mood
+## 📦 Shelves
+
+### 🤖 Discord Projects
+
+Bots, automations and community tools.
+
+### 📡 IoT Projects
+
+Experiments, sensors and embedded systems.
+
+### 🎓 SENAI Stuff
+
+Course activities and technical projects.
+
+### 🌱 Learning Zone
+
+The place where I break things and learn how to fix them.
+
+---
+
+## 🎮 Save File
+
+```txt
+Name............. Asonozz
+Class............ Student
+Level............ Growing
+Main Weapon...... Curiosity
+Special Skill.... Learning random things
+HP............... ██████████
+Mana............. ☕☕☕☕☕
+Sleep............ ██░░░░░░░░
+```
+
+---
+
+## 🎵 Background Music
 
 <div align="center">
 
-| 🎮 Playing | ☕ Coffee | 💻 Coding | 😴 Sleep |
-|:----------:|:---------:|:---------:|:---------:|
-| ██████████ | ██████████ | ███████░░ | ██░░░░░░░ |
+Frank Ocean 🎧
+
+Deftones 🎸
+
+Djavan 🌙
+
+MPB • Jazz • Rap • Trap
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+## 🌸 GitHub Stats
 
 <div align="center">
 
@@ -74,17 +131,7 @@ bug_counter: ∞
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asonozz&theme=radical&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
-# 🌸 Activity Graph
+## 🌷 Coding Journey
 
 <div align="center">
 
@@ -94,7 +141,17 @@ bug_counter: ∞
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Trophy Shelf
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asonozz&theme=radical&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+## 🐍 Late Night Commits
 
 <div align="center">
 
@@ -104,7 +161,7 @@ bug_counter: ∞
 
 ---
 
-# 💌 Let's connect
+## 💌 Find Me Here
 
 <div align="center">
 
@@ -113,7 +170,11 @@ bug_counter: ∞
 </a>
 
 <a href="https://x.com/asonozz">
-<img src="https://img.shields.io/badge/Twitter(X)-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asonozz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -122,8 +183,16 @@ bug_counter: ∞
 
 <div align="center">
 
-### 🌸 Thanks for stopping by!
+### 🌸 Before you leave...
 
-*"See you in the next commit."* 💗
+*"Every repository tells a story."*
+
+Some become successful projects.
+
+Some become abandoned experiments.
+
+Both are worth creating.
+
+💗
 
 </div>
