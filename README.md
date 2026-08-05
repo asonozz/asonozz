@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=800&lines=Hey!+I'm+asonozz;Welcome+to+my+digital+room;IoT+Student+%E2%80%A2+Developer+%E2%80%A2+Gamer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=900&lines=Hey!+I'm+asonozz;estudante+de+IoT+•+criadora+de+bots+•+gamer;um+monte+de+ideias,+alguns+projetos+finalizados+e+v%C3%A1rios+em+andamento"/>
 
 <br>
 
@@ -10,28 +10,39 @@
 
 ---
 
-## Sobre mim
+<div align="center">
+
+### 🌙 Este é apenas um pequeno quarto na internet.
+
+*Entre um commit e outro, tento transformar curiosidade em algo que possa existir.*
+
+</div>
+
+---
+
+## 🌸 Sobre mim
 
 Meu nome é Nathalia, mas na internet você provavelmente vai me encontrar como **asonozz**.
 
-Atualmente estudo **Internet das Coisas (IoT)** e gosto de transformar ideias em projetos, mesmo que alguns deles acabem virando repositórios abandonados depois de uma madrugada inteira programando.
+Atualmente estudo **Internet das Coisas (IoT)** e gosto de criar coisas que me desafiem a aprender algo novo. Este GitHub é onde guardo projetos, experimentos, trabalhos, ideias e tudo aquilo que surgiu de uma simples curiosidade.
 
-Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SENAI e qualquer coisa interessante que eu esteja aprendendo.
+Não é um portfólio perfeito.
 
----
-
-## O que você vai encontrar por aqui
-
-- Bots para Discord
-- Projetos de IoT
-- Trabalhos acadêmicos
-- Automações
-- Experimentos aleatórios
-- Coisas que começaram como curiosidade
+É mais uma coleção de tentativas, aprendizados e projetos que encontrei pelo caminho.
 
 ---
 
-## Tecnologias
+## 📦 O que você vai encontrar por aqui
+
+- 🤖 Bots para Discord
+- 📡 Projetos de IoT
+- 🎓 Trabalhos e atividades do SENAI
+- 💻 Pequenas automações
+- 🌱 Experimentos e ideias aleatórias
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -41,21 +52,20 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 ---
 
-## Algumas coisas que eu gosto
+## 🌙 Algumas coisas que eu gosto
 
-🎮 Valorant
-
-🎧 Kyan, Frank Ocean, Deftones e Racionais
-
-🎬 The Last of Us
-
-📡 Tecnologia e automação
-
-🌙 Projetos feitos tarde da noite
+- 🎮 Valorant
+- 🎬 The Last of Us
+- 🎧 Kyan
+- 🌊 Frank Ocean
+- 🎸 Deftones
+- 🎙️ Racionais MC's
+- 📡 Tecnologia e automação
+- 🌃 Projetos feitos tarde da noite
 
 ---
 
-## Estatísticas
+## 📈 Estatísticas
 
 <div align="center">
 
@@ -67,7 +77,7 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 ---
 
-## Minha jornada
+## 🌷 Minha jornada
 
 <div align="center">
 
@@ -77,7 +87,7 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 ---
 
-## Conquistas
+## 🏆 Conquistas
 
 <div align="center">
 
@@ -87,7 +97,7 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 ---
 
-## Contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -97,7 +107,7 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 ---
 
-## Onde me encontrar
+## 💌 Me encontre por aí
 
 <div align="center">
 
@@ -119,6 +129,10 @@ Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SEN
 
 <div align="center">
 
-*"Todo projeto começa com uma ideia que parecia boa na hora."*
+*"Alguns projetos terminam.*
+
+*Outros ficam pelo caminho.*
+
+*Mas todos contam um pouco da pessoa que os criou."*
 
 </div>
