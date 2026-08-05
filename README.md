@@ -131,17 +131,9 @@ Racionais MC's
 
 <div align="center">
 
-<a href="https://instagram.com/asonozz">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/asonozz">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://guns.lol/asonozz">
-<img src="https://img.shields.io/badge/Guns.lol-CDB4DB?style=for-the-badge"/>
-</a>
+<a href="https://instagram.com/asonozz">instagram</a> ✦
+<a href="https://x.com/asonozz">x</a> ✦
+<a href="https://guns.lol/asonozz">guns.lol</a> ✦
 
 </div>
 
