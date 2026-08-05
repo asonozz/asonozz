@@ -22,7 +22,7 @@
 
 ## 🌸 About Me
 
-oin, eu sou a Lia, mas na internet, quase sempre você vai me encontrar como **asonozz**.
+### oin, eu sou a Lia, mas na internet, quase sempre você vai me encontrar como **asonozz**.
 meu perfil é um pequeno espaço onde guardo ideias, projetos, experimentos e algumas madrugadas mal dormidas.
 entre códigos, músicas de fundo e curiosidades aleatórias, vou criando coisas sem saber exatamente onde elas vão chegar.
 mas, de algum jeito, elas sempre acabam aparecendo por aqui.
