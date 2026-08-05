@@ -1,94 +1,129 @@
 <div align="center">
 
-# 🌸 Olá! Eu sou a asonozz
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=700&lines=Hey!+I'm+asonozz+%F0%9F%8C%B8;Player+%E2%80%A2+Developer+%E2%80%A2+Dreamer;Welcome+to+my+little+coding+space+%F0%9F%92%97"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Programo+quando+dá+vontade;Main+de+Valorant;Às+vezes+o+código+funciona+de+primeira..." />
+<img src="https://komarev.com/ghpvc/?username=asonozz&style=for-the-badge&color=ff8fc7"/>
 
 </div>
 
 ---
 
-## 🎮 Sobre mim
+<div align="center">
 
-- 🌸 Lia
-- 🎮 Viciada em Valorant
-- 💻 Estudante de Desenvolvimento de Sistemas
-- 🤖 Faço bots para Discord quando bate a inspiração
-- ☕ Café ajuda... às vezes.
+### 🌷 *"Sometimes I write code. Sometimes I play Valorant. Sometimes I spend 2 hours fixing a bug caused by one missing semicolon."*
 
----
+</div>
 
-## 🛠️ O que eu uso
+<br>
 
-<p align="center">
+# 🌸 About me
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,discord"/>
+```yaml
+name: Lia
 
-</p>
+nickname: asonozz
 
----
+status: Online 🟢
 
-## 📊 GitHub
+currently:
+  - 🎮 Grinding Valorant
+  - 💻 Learning new things
+  - 🤖 Building Discord bots
+  - 🌸 Making everything prettier
 
-<p align="center">
+coffee: required
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&theme=tokyonight&hide_border=true"/>
+favorite_color: pink 💗
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asonozz&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-## 🎮 Status
-
-```txt
-🎯 Jogando: Valorant
-
-💻 Fazendo:
-███████████░░░░░░ 70%
-
-☕ Energia:
-██████████████░░ 90%
-
-🐞 Bugs:
-██████░░░░░░░░░░ 40%
+bug_counter: ∞
 ```
 
 ---
 
-## 🌸 Redes
+# 🎀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<a href="https://guns.lol/asonozz">
-🌐 guns.lol/asonozz
-</a href="https://x.com/asonozz">
-🌐 x.com/asonozz
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,discord&perline=5"/>
+
+</div>
 
 ---
 
-## 🐍 Minhas contribuições
+# 💗 Current Mood
 
-<p align="center">
-  <img src="https://github.com/asonozz/asonozz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+
+| 🎮 Playing | ☕ Coffee | 💻 Coding | 😴 Sleep |
+|:----------:|:---------:|:---------:|:---------:|
+| ██████████ | ██████████ | ███████░░ | ██░░░░░░░ |
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&theme=transparent&title_color=F7A8D7&text_color=ffffff&icon_color=ff8fc7&border_color=F7A8D7"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&theme=transparent&title_color=F7A8D7&text_color=ffffff&border_color=F7A8D7"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asonozz&theme=radical&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 🌸 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=tokyo-night&bg_color=00000000&color=F7A8D7&line=FF69B4&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/asonozz/asonozz/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💌 Let's connect
+
+<div align="center">
+
+<a href="https://guns.lol/asonozz">
+<img src="https://img.shields.io/badge/Guns.lol-FF8FC7?style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/asonozz">
+<img src="https://img.shields.io/badge/Twitter(X)-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ Obrigada pela visita!
+### 🌸 Thanks for stopping by!
+
+*"See you in the next commit."* 💗
 
 </div>
