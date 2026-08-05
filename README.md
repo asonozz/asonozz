@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=850&lines=Hey!+I'm+asonozz+🌸;Welcome+to+my+digital+room+💗;IoT+Student+•+Bot+Builder+•+Gamer;Turning+ideas+into+projects+one+commit+at+a+time"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F7A8D7&center=true&vCenter=true&width=800&lines=Hey!+I'm+asonozz;Welcome+to+my+digital+room;IoT+Student+%E2%80%A2+Developer+%E2%80%A2+Gamer"/>
 
 <br>
 
@@ -10,55 +10,28 @@
 
 ---
 
-<div align="center">
+## Sobre mim
 
-# 🌸 Welcome to my Digital Room
+Meu nome é Nathalia, mas na internet você provavelmente vai me encontrar como **asonozz**.
 
-*"A place where unfinished ideas, random experiments and late-night projects live together."*
+Atualmente estudo **Internet das Coisas (IoT)** e gosto de transformar ideias em projetos, mesmo que alguns deles acabem virando repositórios abandonados depois de uma madrugada inteira programando.
 
-</div>
-
-<br>
-
-## 🪴 Room Status
-
-```yaml
-user: Nathalia
-
-nickname: asonozz
-
-location: Brazil 🇧🇷
-
-status: Online 🟢
-
-currently:
-  - 📡 Learning IoT
-  - 🤖 Building Discord Bots
-  - 🎮 Playing Valorant
-  - ☕ Surviving with coffee
-  - 🎵 Listening to music
-
-favorite_games:
-  - The Last of Us
-  - Valorant
-
-current_mission:
-  Keep learning and creating cool stuff.
-```
+Este GitHub é meu espaço para guardar projetos, experimentos, trabalhos do SENAI e qualquer coisa interessante que eu esteja aprendendo.
 
 ---
 
-## 🖥️ Around My Desk
+## O que você vai encontrar por aqui
 
-<div align="center">
+- Bots para Discord
+- Projetos de IoT
+- Trabalhos acadêmicos
+- Automações
+- Experimentos aleatórios
+- Coisas que começaram como curiosidade
 
-| 💻 Screen | 🎵 Music    | ☕ Drink | 🧠 Brain   |
-| --------- | ----------- | ------- | ---------- |
-| VS Code   | Frank Ocean | Coffee  | Loading... |
+---
 
-</div>
-
-<br>
+## Tecnologias
 
 <div align="center">
 
@@ -68,58 +41,21 @@ current_mission:
 
 ---
 
-## 📦 Shelves
+## Algumas coisas que eu gosto
 
-### 🤖 Discord Projects
+🎮 Valorant
 
-Bots, automations and community tools.
+🎧 Kyan, Frank Ocean, Deftones e Racionais
 
-### 📡 IoT Projects
+🎬 The Last of Us
 
-Experiments, sensors and embedded systems.
+📡 Tecnologia e automação
 
-### 🎓 SENAI Stuff
-
-Course activities and technical projects.
-
-### 🌱 Learning Zone
-
-The place where I break things and learn how to fix them.
+🌙 Projetos feitos tarde da noite
 
 ---
 
-## 🎮 Save File
-
-```txt
-Name............. Asonozz
-Class............ Student
-Level............ Growing
-Main Weapon...... Curiosity
-Special Skill.... Learning random things
-HP............... ██████████
-Mana............. ☕☕☕☕☕
-Sleep............ ██░░░░░░░░
-```
-
----
-
-## 🎵 Background Music
-
-<div align="center">
-
-Frank Ocean 🎧
-
-Deftones 🎸
-
-Djavan 🌙
-
-MPB • Jazz • Rap • Trap
-
-</div>
-
----
-
-## 🌸 GitHub Stats
+## Estatísticas
 
 <div align="center">
 
@@ -131,7 +67,7 @@ MPB • Jazz • Rap • Trap
 
 ---
 
-## 🌷 Coding Journey
+## Minha jornada
 
 <div align="center">
 
@@ -141,7 +77,7 @@ MPB • Jazz • Rap • Trap
 
 ---
 
-## 🏆 Trophy Shelf
+## Conquistas
 
 <div align="center">
 
@@ -151,7 +87,7 @@ MPB • Jazz • Rap • Trap
 
 ---
 
-## 🐍 Late Night Commits
+## Contribuições
 
 <div align="center">
 
@@ -161,20 +97,20 @@ MPB • Jazz • Rap • Trap
 
 ---
 
-## 💌 Find Me Here
+## Onde me encontrar
 
 <div align="center">
 
-<a href="https://guns.lol/asonozz">
-<img src="https://img.shields.io/badge/Guns.lol-FF8FC7?style=for-the-badge"/>
+<a href="https://instagram.com/asonozz">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/asonozz">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://github.com/asonozz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://guns.lol/asonozz">
+<img src="https://img.shields.io/badge/Guns.lol-FF8FC7?style=for-the-badge"/>
 </a>
 
 </div>
@@ -183,16 +119,6 @@ MPB • Jazz • Rap • Trap
 
 <div align="center">
 
-### 🌸 Before you leave...
-
-*"Every repository tells a story."*
-
-Some become successful projects.
-
-Some become abandoned experiments.
-
-Both are worth creating.
-
-💗
+*"Todo projeto começa com uma ideia que parecia boa na hora."*
 
 </div>
