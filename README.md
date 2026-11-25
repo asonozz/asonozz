@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3400&pause=1100&color=E33D48¢er=true&vCenter=true&width=880&lines=%E6%84%9B+asonozz.;um+pequeno+quarto+na+internet;noites+longas%2C+pensamentos+calmos;building+things.+learning+along+the+way."/>
 
+<div align="center">
+
 <br>
 
 <a href="https://asonozz.vercel.app">
