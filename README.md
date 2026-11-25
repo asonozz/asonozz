@@ -1,84 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=CDB4DB&center=true&vCenter=true&width=900&lines=Hey!+I'm+@asonozz;late+nights,+quiet+thoughts;building+things+that+don't+exist+yet"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3400&pause=1100&color=E33D48¢er=true&vCenter=true&width=880&lines=%E6%84%9B+asonozz.;um+pequeno+quarto+na+internet;noites+longas%2C+pensamentos+calmos;building+things.+learning+along+the+way."/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=asonozz&style=for-the-badge&color=CDB4DB"/>
+<a href="https://asonozz.vercel.app">
+  <img src="https://img.shields.io/badge/caderno-asonozz.vercel.app-B81D27?style=for-the-badge&logo=vercel&logoColor=F7F1F1" alt="Blog asonozz."/>
+</a>
+<a href="https://www.last.fm/user/asonozz">
+  <img src="https://img.shields.io/badge/last.fm-asonozz-1B1517?style=for-the-badge&logo=lastdotfm&logoColor=E33D48" alt="Last.fm"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=asonozz&label=visitas&style=for-the-badge&color=1B1517" alt="Visitas"/>
+
+<br><br>
+
+*⋆⭒˚.⋆ um pequeno quarto na internet feito de curiosidade, madrugadas calmas, música no fundo e ideias que ainda estão tomando forma. ⋆⭒˚.⋆*
+
+> *"Not every project reaches its final destination. But every one of them leaves something behind."*
 
 </div>
 
 ---
 
+### ⋆˚࿔ quem escreve
+
+**愛 asonozz.** `(@asonozz)`
+
+`building things. learning along the way.`
+
+Essa conta é dedicada à minha evolução criando, aos projetos que surgem pelo caminho e às ideias que começaram com um simples *"e se eu tentasse isso?"*. Um lugar para guardar tentativas, aprendizados e coisas que eu quis construir sem pressa.
+
+---
+
+### ⋆˚࿔ caderno aberto
+
+O meu espaço principal fora das redes sociais vive em **[asonozz.vercel.app](https://asonozz.vercel.app)** — feito à mão em estilo caderno/scrapbook:
+
+- `textos` — pensamentos, código, diário e devaneios
+- `mural` — recortes, referências e polaroids coladas na parede
+- `devaneios` — fichas de projetos e ideias em construção
+- `ouvindo agora` — mini vinil sincronizado ao vivo com o meu [Last.fm](https://www.last.fm/user/asonozz)
+
+---
+
+### ⋆˚࿔ ferramentas
+
 <div align="center">
 
-### ˙⋆✮ This is just a small room somewhere on the internet. 
-
-*Made of curiosity, late nights, background music and projects that are still figuring out what they want to become.*
-
-*"Not every project reaches its final destination.*  
-*But every one of them leaves something behind."*
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,firebase,vercel,git,github,vscode,discord&theme=dark&perline=11"/>
 
 </div>
 
 ---
 
-## 🌸 About Me
+### ⋆˚࿔ coisas que eu curto
 
-**asonozz. ᯓ★**
-
-building things. learning along the way.
-
-essa conta é dedicada à minha evolução criando, aos projetos que surgem pelo caminho e às ideias que ainda estão tomando forma.
-
-um lugar para guardar tentativas, aprendizados e coisas que eu quis construir.
+`⋆ jogos` · `⋆ música` · `⋆ código` · `⋆ criar coisas aleatórias` · `⋆ madrugadas calmas`
 
 ---
 
-## 📦 What's Here
-
-Um lugar para guardar tudo aquilo que começou com um simples:
-
-> "e se eu tentasse isso?"
-
-Então, fique á vontade para descobrir meus devaneios!
-
----
-
-## 🛠️ Tech Stack
+### ⋆˚࿔ trilha sonora
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,discord&perline=9"/>
-
-</div>
-
----
-
-## 🌙 Things I Like
-
-- 🎮 games
-- 🎧 music
-- 💻 coding
-- 🌱 creating random things
-- 🌙 late nights and quiet moments
-
----
-
-## 🎵 Background Music
-
-<div align="center">
-
-♪ Frank Ocean
-
-♪ Kyan
-
-♪ Deftones
-
-♪ Racionais MC's
+`♪ Frank Ocean`  ·  `♪ Kyan`  ·  `♪ Deftones`  ·  `♪ Racionais MC's`
 
 <br>
-
 
 *"𝐒𝐖𝐀𝐆!"*
 
@@ -86,23 +73,17 @@ Então, fique á vontade para descobrir meus devaneios!
 
 ---
 
-## 📈 GitHub Stats
+### ⋆˚࿔ registros
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&theme=transparent&title_color=CDB4DB&text_color=ffffff&icon_color=CDB4DB&border_color=CDB4DB"/>
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=asonozz&show_icons=true&bg_color=1B1517&title_color=E33D48&text_color=F7F1F1&icon_color=E33D48&border_color=B81D27&border_radius=12"/>
+ 
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&bg_color=1B1517&title_color=E33D48&text_color=F7F1F1&border_color=B81D27&border_radius=12"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asonozz&layout=compact&theme=transparent&title_color=CDB4DB&text_color=ffffff&border_color=CDB4DB"/>
+<br><br>
 
-</div>
-
----
-
-## 🌙 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&theme=github-dark&bg_color=00000000&color=CDB4DB&line=CDB4DB&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asonozz&bg_color=1B1517&color=E33D48&line=E33D48&point=F7F1F1&area=true&area_color=B81D27&hide_border=false&custom_title=atividade+recente"/>
 
 <br><br>
 
@@ -112,18 +93,19 @@ Então, fique á vontade para descobrir meus devaneios!
 
 ---
 
-## 💌 Find Me
-
-- instagram — [@asonozz](https://instagram.com/asonozz) ⋆˚࿔
-- x — [@asonozz](https://x.com/asonozz) ⋆˚࿔
-- guns.lol — [asonozz](https://guns.lol/asonozz) ⋆˚࿔
-
----
+### ⋆˚࿔ onde me encontrar
 
 <div align="center">
 
-⋆⭒˚.⋆
+[![Blog](https://img.shields.io/badge/blog-asonozz.vercel.app-B81D27?style=flat-square&logo=vercel&logoColor=F7F1F1)](https://asonozz.vercel.app)
+[![Last.fm](https://img.shields.io/badge/last.fm-asonozz-1B1517?style=flat-square&logo=lastdotfm&logoColor=E33D48)](https://www.last.fm/user/asonozz)
+[![Instagram](https://img.shields.io/badge/instagram-@asonozz-1B1517?style=flat-square&logo=instagram&logoColor=E33D48)](https://instagram.com/asonozz)
+[![X](https://img.shields.io/badge/x-@asonozz-1B1517?style=flat-square&logo=x&logoColor=E33D48)](https://x.com/asonozz)
+[![guns.lol](https://img.shields.io/badge/guns.lol-asonozz-1B1517?style=flat-square&logoColor=E33D48)](https://guns.lol/asonozz)
+
+<br>
+
+⋆⭒˚.⋆ **愛** ⋆⭒˚.⋆  
 *"Look at the light."*
-⋆⭒˚.⋆
 
 </div>
