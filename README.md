@@ -1,6 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3400&pause=1100&color=E33D48¢er=true&vCenter=true&width=880&lines=%E6%84%9B+asonozz.;um+pequeno+quarto+na+internet;noites+longas%2C+pensamentos+calmos;building+things.+learning+along+the+way."/>
+# 愛 asonozz.
+
+<svg width="860" height="86" viewBox="0 0 860 86" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="asonozz. — um pequeno quarto na internet">
+  <style>
+    .line {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #E33D48;
+      opacity: 0;
+    }
+    .l1 { animation: cycle1 12s infinite; }
+    .l2 { animation: cycle2 12s infinite; }
+    .l3 { animation: cycle3 12s infinite; }
+    .l4 { animation: cycle4 12s infinite; }
+
+    @keyframes cycle1 {
+      0%, 22% { opacity: 1; transform: translateY(0px); }
+      25%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes cycle2 {
+      0%, 24% { opacity: 0; transform: translateY(4px); }
+      27%, 47% { opacity: 1; transform: translateY(0px); }
+      50%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes cycle3 {
+      0%, 49% { opacity: 0; transform: translateY(4px); }
+      52%, 72% { opacity: 1; transform: translateY(0px); }
+      75%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes cycle4 {
+      0%, 74% { opacity: 0; transform: translateY(4px); }
+      77%, 97% { opacity: 1; transform: translateY(0px); }
+      100% { opacity: 0; transform: translateY(-4px); }
+    }
+    .pulse-dot {
+      fill: #B81D27;
+      animation: dotPulse 2s ease-in-out infinite;
+    }
+    @keyframes dotPulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+  </style>
+  <rect x="18" y="8" width="824" height="70" rx="14" fill="#1B1517" stroke="#B81D27" stroke-width="1.5" stroke-dasharray="6 6" />
+  <circle class="pulse-dot" cx="44" cy="43" r="4" />
+  <text x="430" y="50" text-anchor="middle" class="line l1">⋆⭒˚.⋆ um pequeno quarto na internet</text>
+  <text x="430" y="50" text-anchor="middle" class="line l2">noites longas, pensamentos calmos</text>
+  <text x="430" y="50" text-anchor="middle" class="line l3">coisas que ainda estão tomando forma</text>
+  <text x="430" y="50" text-anchor="middle" class="line l4">building things. learning along the way.</text>
+  <circle class="pulse-dot" cx="816" cy="43" r="4" />
+</svg>
 
 <br>
 
