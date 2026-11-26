@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3400&pause=1100&color=E33D48¢er=true&vCenter=true&width=880&lines=%E6%84%9B+asonozz.;um+pequeno+quarto+na+internet;noites+longas%2C+pensamentos+calmos;building+things.+learning+along+the+way."/>
+<h1>愛 asonozz.</h1>
 
-<div align="center">
+<svg width="780" height="54" viewBox="0 0 780 54" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="asonozz. — um pequeno quarto na internet">
+  <rect x="6" y="4" width="768" height="46" rx="12" fill="#1B1517" stroke="#B81D27" stroke-width="1.5" stroke-dasharray="6 6" />
+  <circle cx="28" cy="27" r="4" fill="#E33D48">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+  <text x="390" y="33" text-anchor="middle" fill="#F7F1F1" font-family="monospace" font-size="16" font-weight="600">
+    ⋆⭒˚.⋆ um pequeno quarto na internet · noites longas · building things
+  </text>
+  <circle cx="752" cy="27" r="4" fill="#E33D48">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 <br>
 
