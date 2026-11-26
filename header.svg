@@ -1,0 +1,56 @@
+<svg width="780" height="122" viewBox="0 0 780 122" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="愛 asonozz. — um pequeno quarto na internet">
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .sub {
+      font-family: 'Courier New', monospace;
+      font-size: 15px;
+      font-weight: 700;
+      fill: #E33D48;
+      opacity: 0;
+    }
+    .s1 { animation: fadeCycle1 9s infinite; }
+    .s2 { animation: fadeCycle2 9s infinite; }
+    .s3 { animation: fadeCycle3 9s infinite; }
+
+    @keyframes fadeCycle1 {
+      0%, 28% { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    @keyframes fadeCycle2 {
+      0%, 33% { opacity: 0; }
+      38%, 62% { opacity: 1; }
+      67%, 100% { opacity: 0; }
+    }
+    @keyframes fadeCycle3 {
+      0%, 67% { opacity: 0; }
+      72%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    .dot {
+      fill: #E33D48;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <rect x="6" y="4" width="768" height="114" rx="16" fill="#1B1517" stroke="#B81D27" stroke-width="1.5" stroke-dasharray="6 6" />
+  <circle class="dot" cx="32" cy="61" r="4.5" />
+  <circle class="dot" cx="748" cy="61" r="4.5" />
+
+  <text x="390" y="52" text-anchor="middle" class="title">
+    <tspan fill="#E33D48">愛</tspan>
+    <tspan fill="#E33D48" dx="8">asonozz.</tspan>
+  </text>
+
+  <text x="390" y="88" text-anchor="middle" class="sub s1">⋆⭒˚.⋆ um pequeno quarto na internet ⋆⭒˚.⋆</text>
+  <text x="390" y="88" text-anchor="middle" class="sub s2">noites longas, pensamentos calmos</text>
+  <text x="390" y="88" text-anchor="middle" class="sub s3">building things. learning along the way.</text>
+</svg>
