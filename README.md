@@ -1,21 +1,6 @@
 <div align="center">
 
-<svg width="780" height="114" viewBox="0 0 780 114" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="愛 asonozz. — um pequeno quarto na internet">
-  <rect x="6" y="4" width="768" height="106" rx="14" fill="#1B1517" stroke="#B81D27" stroke-width="1.5" stroke-dasharray="6 6" />
-  <circle cx="28" cy="57" r="4" fill="#E33D48">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite" />
-  </circle>
-  <text x="390" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700">
-    <tspan fill="#E33D48">愛</tspan>
-    <tspan fill="#E33D48" dx="6">asonozz.</tspan>
-  </text>
-  <text x="390" y="82" text-anchor="middle" fill="#E33D48" font-family="monospace" font-size="15" font-weight="600">
-    ⋆⭒˚.⋆ um pequeno quarto na internet · noites longas · building things
-  </text>
-  <circle cx="752" cy="57" r="4" fill="#E33D48">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" />
-  </circle>
-</svg>
+<img src="./header.svg" alt="愛 asonozz." width="780" />
 
 <br>
 
